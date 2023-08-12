@@ -15,3 +15,16 @@
 .travel-mainDiv h5, .travel-mainDiv p{
     margin: 20px;
 }
+
+#Contact img{
+    width: 200px;
+    height: 200px;
+}
+
+#contact iframe{
+    margin-bottom: 20px;
+}
+
+.new{
+    margin-bottom: 20px;
+}
